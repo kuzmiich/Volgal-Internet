@@ -1,3 +1,2 @@
 # volgal-internet
-site was created 02.08.2020<br>
-https://kuzmiich.github.io/volgal-internet/
+<h2>Site was created 02.08.2020</h2>
